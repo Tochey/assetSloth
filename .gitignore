@@ -33,7 +33,7 @@ build/
 .vscode/
 
 #
-src/**/credentials/Credentials.java
+src/**/**/Credentials.java
 .mvnw
 mvnw.cmd
 .mvn/
