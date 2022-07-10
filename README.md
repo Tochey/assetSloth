@@ -1,4 +1,4 @@
 # assetSloth
 A web application for flagshippioneering
-![image](https://user-images.githubusercontent.com/54341970/178137203-931cb282-8eee-4bb1-9109-25a225570807.png)
+![image](https://user-images.githubusercontent.com/54341970/178137248-b74364ee-68ba-424f-bb0f-e03b1ea5a1f8.png)
 
