@@ -34,3 +34,6 @@ build/
 
 #
 src/**/credentials/Credentials.java
+.mvn
+mvnw.cmd
+.mvn/
